@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px) {
+    .menu {
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+    }
+
+    .caixa {
+        display: flex;
+        flex-direction: column;
+        align-items: center;    
+    }
+}
